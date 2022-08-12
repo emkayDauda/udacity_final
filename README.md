@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![emkayDauda](https://circleci.com/gh/emkayDauda/udacity_final.svg?style=shield)](https://circleci.com/gh/emkaydauda/udacity_final)
 
 ## Project Overview
 
